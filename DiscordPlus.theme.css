@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Rubik light';
-  --dplus-font-body: 'Rubik light';
-  --dplus-font-header: 'Rubik light';
+  --dplus-font-ui: 'Monomaniac One Regular';
+  --dplus-font-body: 'Monomaniac One Regular';
+  --dplus-font-header: 'Monomaniac One Regular';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
