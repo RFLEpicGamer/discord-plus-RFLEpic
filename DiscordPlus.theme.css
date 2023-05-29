@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Monomaniac One Regular';
-  --dplus-font-body: 'Monomaniac One Regular';
-  --dplus-font-header: 'Monomaniac One Regular';
+  --dplus-font-ui: 'Monomaniac One';
+  --dplus-font-body: 'Monomaniac One';
+  --dplus-font-header: 'Monomaniac One';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
