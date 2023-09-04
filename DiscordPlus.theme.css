@@ -62,7 +62,7 @@
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'SquareFont';
   --dplus-font-body: 'Monomaniac One';
-  --dplus-font-header: 'Monomaniac One';
+  --dplus-font-header: 'SquareFont';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
