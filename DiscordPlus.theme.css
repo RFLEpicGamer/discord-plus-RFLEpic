@@ -26,8 +26,8 @@
   --dplus-accent-color-lightness: 67%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 252;
-  --dplus-foreground-color-hue-links: 249;
+  --dplus-foreground-color-hue-base: 0;
+  --dplus-foreground-color-hue-links: 0;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
