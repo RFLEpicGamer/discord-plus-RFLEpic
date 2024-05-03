@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Silkscreen';
-  --dplus-font-body: 'Silkscreen';
-  --dplus-font-header: 'Silkscreen';
+  --dplus-font-ui: 'Jaro';
+  --dplus-font-body: 'Jaro';
+  --dplus-font-header: 'Jaro';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
