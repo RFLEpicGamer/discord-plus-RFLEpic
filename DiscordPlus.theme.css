@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://rflepicgamer.nekoweb.org/assets/background.png);
+  
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 252;
@@ -34,7 +34,7 @@
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 252;
   --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 5;
+  --dplus-background-color-lightness-amount: 23;
   --dplus-background-color-alpha: 1;
 }
 
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Jersey 10';
-  --dplus-font-body: 'Jersey 10';
-  --dplus-font-header: 'Jersey 10';
+  --dplus-font-ui: 'Archivo';
+  --dplus-font-body: 'Archivo';
+  --dplus-font-header: 'Archivo';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
